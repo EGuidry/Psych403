@@ -23,3 +23,5 @@ Question 4: See [ClockExercisesQ4](https://github.com/EGuidry/Psych403/blob/main
 
 ## Frame Exercises
 See [FrameExercises](https://github.com/EGuidry/Psych403/blob/main/Assignment7/FrameExercises.py)
+
+Question 2: Zero frames were dropped.
