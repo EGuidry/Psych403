@@ -20,4 +20,6 @@ Question 3: See [ClockExercisesQ3](https://github.com/EGuidry/Psych403/blob/main
 - While some change happens after a 10th of a second, the average shows that "countdown_timer" is more precise than "clock_wait_timer" but less percise than "wait_timer"
 
 Question 4: See [ClockExercisesQ4](https://github.com/EGuidry/Psych403/blob/main/Assignment7/ClockExercisesQ4.py)
-- 
+
+## Frame Exercises
+See [FrameExercises](
