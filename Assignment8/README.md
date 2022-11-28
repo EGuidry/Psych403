@@ -9,7 +9,7 @@
 Was told to ignore this section.
 
 ## Recording Data Exercises
-See [ReadingExercises](https://github.com/EGuidry/Psych403/blob/main/Assignment8/ReadingExercises.py)
+See [RcordingExercises]()
 
 ## Save CSV Exercises
 See [SaveExercise](https://github.com/EGuidry/Psych403/blob/main/Assignment8/SaveExercise.py)
