@@ -1,6 +1,6 @@
 ## PsychoPy Keypress Exercises
 Question 1: See [PsychoPyQ1](https://github.com/EGuidry/Psych403/blob/main/Assignment8/PsychoPyQ1.py)
-Question 2: See [PsyshoPyQ2](
+Question 2: See [PsyshoPyQ2](https://github.com/EGuidry/Psych403/blob/main/Assignment8/PsychoPyQ2.py)
 - What happens if you put event.ClearEvents within the trial loop instead of outside the trial loop?
     - Answer: When event.clear is inside the trail loop, it clears what is collected within the loop. It needs to be way before the getKeys 
       and.draw(), because it wouldn't make any sense to clear eveything after you just collected it.
