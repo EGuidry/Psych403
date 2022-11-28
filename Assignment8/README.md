@@ -11,4 +11,7 @@ Question 2: See [PsyshoPyQ2](https://github.com/EGuidry/Psych403/blob/main/Assig
 Was told to ignore this section.
 
 ## Recording Data Exercises
-See [ReadingExercises](
+See [ReadingExercises](https://github.com/EGuidry/Psych403/blob/main/Assignment8/ReadingExercises.py)
+
+## Save CSV Exercises
+See [SaveExercises](
