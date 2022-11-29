@@ -15,4 +15,5 @@ See [RecordingExercises](https://github.com/EGuidry/Psych403/blob/main/Assignmen
 See [SaveExercise](https://github.com/EGuidry/Psych403/blob/main/Assignment8/SaveExercise.py)
 
 ## JSON Exercises
-Could not get JSON to work.
+Could not get JSON to work, tried exercise with csv.
+See [notJSON](
