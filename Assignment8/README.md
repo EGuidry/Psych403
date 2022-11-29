@@ -16,4 +16,4 @@ See [SaveExercise](https://github.com/EGuidry/Psych403/blob/main/Assignment8/Sav
 
 ## JSON Exercises
 Could not get JSON to work, tried exercise with csv.
-See [notJSON](
+See [notJSON](https://github.com/EGuidry/Psych403/blob/main/Assignment8/notJSON.py)
