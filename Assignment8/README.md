@@ -11,9 +11,8 @@ Was told to ignore this section.
 ## Recording Data Exercises
 See [RecordingExercises](https://github.com/EGuidry/Psych403/blob/main/Assignment8/RecordingExercises.py)
 
-## Save CSV Exercises
+## Save CSV Exercise
 See [SaveExercise](https://github.com/EGuidry/Psych403/blob/main/Assignment8/SaveExercise.py)
 
 ## JSON Exercises
-Could not get JSON to work, tried exercise with csv.
-See [notJSON](https://github.com/EGuidry/Psych403/blob/main/Assignment8/notJSON.py)
+Could not get JSON to work, tried exercise with csv - See [notJSON](https://github.com/EGuidry/Psych403/blob/main/Assignment8/notJSON.py)
